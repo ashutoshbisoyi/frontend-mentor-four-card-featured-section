@@ -96,6 +96,12 @@ footer a {
 }
 
 @media (max-width: 1080px) {
+  .featured-section header h1 {
+    font-size: 1.5em;
+  }
+  .featured-section header p {
+    font-size: 14px;
+  }
   .featured-section .container {
     flex-direction: column;
   }
